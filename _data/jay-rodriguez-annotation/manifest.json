@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/annotations/jay-rodriguez-annotation-canvas-1-notes.json",
-            "label": {
-              "none": ["Notes"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/annotations/jay-rodriguez-annotation-canvas-1-interviewee-.json",
             "label": {
               "none": ["Interviewee "]
