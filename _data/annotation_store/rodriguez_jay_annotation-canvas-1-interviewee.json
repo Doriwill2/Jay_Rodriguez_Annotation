@@ -1,0 +1,256 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/annotations/rodriguez_jay_annotation-canvas-1-interviewee.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Start of great depression year after his birth with six siblings (setting up background)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "197.0,255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughed at the question about the presence of any other races in town or at school, offerred to go more into that (interesting chance for a follow up question)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "789.0,800.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Noted that \"the war\" started in '41 the year he went to high school (opportunity for follow up question to clarify)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "913.0,924.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Another reference to \"the war\" (dangling a carrot here and the interviewer has yet to reach for it...could get a whole other angle on the story potentially)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1228.0,1235.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interviewee didn't wait for any cues and decided to change the direction of the interview on his own...answered a question that was never technically asked?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1699.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interesting tangent in response to the question...his intentions seemed pure but some of the language and phrasing was dated and could be seen as a little abrasive",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2490.0,2790.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This was perhaps the most interesting anecodte in my opinion, given that it was such a supercharged issue that few people likely remember in 2023",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3130.0,3300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewee-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audio quality changes, and interviewees voice seems a bit tired. You can tell it's taken just a tiny bit of a toll on him, especially since he alluded to that possibility \nat the start of the interview",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3330.0"
+        }
+      }
+    }
+  ]
+}

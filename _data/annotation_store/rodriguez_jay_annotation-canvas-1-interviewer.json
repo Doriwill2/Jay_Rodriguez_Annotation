@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/annotations/rodriguez_jay_annotation-canvas-1-interviewer.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interveiwer was allowing space for Jay to answer, but Jay may have felt like he was rambling. (Establishing rhythym of interview)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,456.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Circled back to the racial/georgraphical disparity in Laverne, created space for more annecdotes/detail there (follow up question)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456.0,465.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First time interviewer asks a follow up about experience in the war. Reason for hesitance may have been sensitivity, but the interviewee was speaking freely about it ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jay had been going on about the war for quite awhile and things started to feel off track, the interviewer asked a good question here to steer the ship back on course",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1526.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the first time I've heard the interviewer speak in almost 12 minnutes",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2425.0,2436.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interesting question because it triggered an actual physical response from the ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interviewer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Great question by the interviewer in the sense that it was a little more detailed, and included a natural follow-up question",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3050.0,3060.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/annotations/rodriguez_jay_annotation-canvas-1-interview.json",
+  "type": "AnnotationPage",
+  "label": "Interview",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interview-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jump cut, looks like they had to take a break. Would've been curious to see how they transitioned into one",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1620.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "rodriguez_jay_annotation-canvas-1-interview-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "First example of a tennis-style rapport between interviewer and interviewee",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Doriwill2.github.io/Jay_Rodriguez_Annotation/rodriguez_jay_annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2931.0,3003.0"
+        }
+      }
+    }
+  ]
+}
